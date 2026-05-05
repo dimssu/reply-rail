@@ -412,4 +412,3 @@ export function ReviewDetail({ reviewId }: { reviewId: string }) {
     </div>
   );
 }
-</content>

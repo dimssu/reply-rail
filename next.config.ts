@@ -15,5 +15,3 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
-</content>
-</invoke>

@@ -447,4 +447,3 @@ function TrendChart() {
     </svg>
   );
 }
-</content>

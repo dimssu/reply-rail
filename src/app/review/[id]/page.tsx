@@ -19,4 +19,3 @@ export default async function ReviewPage({ params }: { params: Params }) {
     </Shell>
   );
 }
-</content>

@@ -490,4 +490,3 @@ function Mini({
     </div>
   );
 }
-</content>

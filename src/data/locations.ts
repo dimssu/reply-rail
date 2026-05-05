@@ -78,4 +78,3 @@ export const LOCATIONS: Location[] = [
     reviewsThisMonth: 49,
   },
 ];
-</content>

@@ -45,4 +45,3 @@ export const REVIEWERS: Reviewer[] = [
 
 export const reviewerById = (id: string) =>
   REVIEWERS.find((r) => r.id === id) ?? REVIEWERS[0];
-</content>
